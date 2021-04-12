@@ -3,7 +3,22 @@
 ```diff
 +I have followed below links of Readme.md to update my all three assignments. Currently i have used only those which i understood well.
 ```
-|🇱‌🇮‌🇳‌🇰‌🇸‌  | 🇫‌🇴‌🇱‌🇱‌🇴‌🇼‌🇪‌🇩‌ 🇨‌🇴‌🇳‌🇹‌🇪‌🇳‌🇹‌ |
-|-------|--------|
-|https://github.com/somgithub111/keenable/blob/main/Other_Service_Analysis.md|Liked the concept of adding social media links to redirect customer to various social media platforms Also the use of badge for visitors count and GitHub stats is really good and unique.|
-|https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md|Liked his presentation skills and how nicely he had explained how to use various functionalities just by doing some simple steps.|
+🇱‌🇮‌🇳‌🇰‌🇸‌ 
+- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
+
+
+🇫‌🇴‌🇱‌🇱‌🇴‌🇼‌🇪‌🇩‌ 🇨‌🇴‌🇳‌🇹‌🇪‌🇳‌🇹‌
+- Liked his presentation skills
+- Liked his GitHub stats option
+- Liked his Language card layout very much 
+
+🇹‌🇭‌🇮‌🇳‌🇬‌🇸‌ 🇮‌ 🇱‌🇪‌🇦‌🇷‌🇳‌🇹‌
+- How to add Dropdown Menu
+- How to add Api on gifs
+- How to create table
+- How to add GitHub Stats
+
+🇹‌🇭‌🇮‌🇳‌‌🇬‌🇸‌ 🇮‌ 🇱‌🇮‌🇰‌🇪‌ 🇮‌🇳‌ 🇲‌🇾‌ 🇷‌🇪‌🇦‌🇩‌🇲‌🇪‌
+- Usage of symbols instead of writing name of technologies
+- Usage of different fonts for heading and subheading
+- Usage of gif for whatsapp, gmail and googlemap locations which redirects on click
